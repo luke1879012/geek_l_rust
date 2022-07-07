@@ -1,5 +1,5 @@
 [package]
-name = "geek_l_rust"
+name = "httpie"
 version = "0.1.0"
 edition = "2021"
 
