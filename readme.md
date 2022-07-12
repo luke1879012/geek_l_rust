@@ -10,3 +10,9 @@ cargo build --quiet; .\target\debug\geek_l_rust post https://httpbin.org/post a=
 ```shell
 cargo build --release
 ```
+
+设置日志等级
+```shell
+set RUST_LOG=info
+```
+
