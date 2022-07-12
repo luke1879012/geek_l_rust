@@ -6,3 +6,5 @@ target
 *.out
 
 Cargo.lock
+
+venv
